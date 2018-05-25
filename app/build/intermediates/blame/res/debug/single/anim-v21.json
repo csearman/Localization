@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/delaroy/.android/build-cache/c087b4b5cf046066e58244685d696945a8358883/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/delaroy/.android/build-cache/c087b4b5cf046066e58244685d696945a8358883/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/delaroy/.android/build-cache/c087b4b5cf046066e58244685d696945a8358883/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/delaroy/.android/build-cache/c087b4b5cf046066e58244685d696945a8358883/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/w3e02/AndroidStudioProjects/Locale-master/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/w3e02/.android/build-cache/fb2cbb0592c62e27785ad63aa637962db0429116/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/w3e02/AndroidStudioProjects/Locale-master/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/w3e02/.android/build-cache/fb2cbb0592c62e27785ad63aa637962db0429116/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

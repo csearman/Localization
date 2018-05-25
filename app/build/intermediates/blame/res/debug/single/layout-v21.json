@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/w3e02/AndroidStudioProjects/Locale-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/w3e02/.android/build-cache/4a7a7f298624db8f3079f0b7930451d256c62386/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/w3e02/AndroidStudioProjects/Locale-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/w3e02/.android/build-cache/4a7a7f298624db8f3079f0b7930451d256c62386/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/w3e02/AndroidStudioProjects/Locale-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/w3e02/.android/build-cache/4a7a7f298624db8f3079f0b7930451d256c62386/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/w3e02/AndroidStudioProjects/Locale-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/w3e02/.android/build-cache/4a7a7f298624db8f3079f0b7930451d256c62386/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

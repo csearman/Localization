@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/Locale/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/w3e02/AndroidStudioProjects/Locale-master/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/w3e02/AndroidStudioProjects/Locale-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/w3e02/AndroidStudioProjects/Locale-master/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/w3e02/AndroidStudioProjects/Locale-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
